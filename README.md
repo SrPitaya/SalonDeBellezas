@@ -25,6 +25,7 @@ Este repositorio es una versión **recuperada** del proyecto original. Puede que
 
 - El proyecto fue desarrollado y probado en un entorno **local** (WAMPP).
 - No cuenta con despliegue en producción.
+- Seguridad baja debido a validaciones pobres y ruteo nullo
 
 ---
 
