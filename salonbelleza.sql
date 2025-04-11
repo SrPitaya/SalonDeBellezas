@@ -38,7 +38,7 @@ CREATE TABLE `administradora` (
 --
 
 INSERT INTO `administradora` (`id`, `user_name`, `password`) VALUES
-(1, 'ale@gmail.com', '123');
+(1, 'admin@gmail.com', '123');
 
 -- --------------------------------------------------------
 
